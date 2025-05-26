@@ -29,3 +29,13 @@ Install dependencies using:
 
 ```bash
 pip install yfinance pandas numpy pytz nsetools
+
+2. Run the script:
+
+## Dependencies
+- yfinance
+- pandas
+- pytz
+- numpy
+- nsetools
+
