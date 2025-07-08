@@ -25,7 +25,7 @@ This project analyzes **real-time intraday performance** of selected NSE (India)
 
 ## 📦 Requirements
 
-Install dependencies using:
+Install dependencies using:-
 
 ```bash
 pip install yfinance pandas numpy pytz nsetools
