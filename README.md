@@ -6,7 +6,7 @@ This project analyzes **real-time intraday performance** of selected NSE (India)
 
 ## 🔧 Features
 
-- Fetches **1-minute intraday data** from NSE via Yahoo Finance
+- Fetches **1-minute intraday data with details** from NSE via Yahoo Finance
 - Calculates:
   - Daily return (%)
   - Last 1 hour return (%)
